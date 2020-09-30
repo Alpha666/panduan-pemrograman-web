@@ -12,5 +12,5 @@ pada channel `Pendaftaran.`
 
 Contoh : `$daftar M. Mikail Dwi K. 05311840000028`
 
-![https://github.com/Alpha666/panduan-pemrograman-web/blob/main/daftar.png]
+![https://github.com/Alpha666/panduan-pemrograman-webdaftar.png]
 
